@@ -1,0 +1,5 @@
+[project]
+name = "awesome-video-anomaly-detection"
+version = "0.1.0"
+description = "A curated collection of papers, code, datasets, and utilities for Video Anomaly Detection, updated every Friday."
+requires-python = ">=3.10"
